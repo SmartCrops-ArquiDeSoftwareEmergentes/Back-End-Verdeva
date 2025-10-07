@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Shared\\NutriControl.Shared.csproj": {}
+    "C:\\Users\\chris\\Documents\\Avatar\\Back-End-Verdeva\\NutriControl.Shared\\NutriControl.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Shared\\NutriControl.Shared.csproj": {
+    "C:\\Users\\chris\\Documents\\Avatar\\Back-End-Verdeva\\NutriControl.Shared\\NutriControl.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Shared\\NutriControl.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Documents\\Avatar\\Back-End-Verdeva\\NutriControl.Shared\\NutriControl.Shared.csproj",
         "projectName": "NutriControl.Shared",
-        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Shared\\NutriControl.Shared.csproj",
+        "projectPath": "C:\\Users\\chris\\Documents\\Avatar\\Back-End-Verdeva\\NutriControl.Shared\\NutriControl.Shared.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Shared\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Documents\\Avatar\\Back-End-Verdeva\\NutriControl.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"

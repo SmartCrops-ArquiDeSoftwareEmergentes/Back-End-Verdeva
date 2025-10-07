@@ -345,11 +345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Domain\\NutriControl.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\Avatar\\Back-End-Verdeva\\NutriControl.Domain\\NutriControl.Domain.csproj",
       "projectName": "NutriControl.Domain",
-      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Domain\\NutriControl.Domain.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\Avatar\\Back-End-Verdeva\\NutriControl.Domain\\NutriControl.Domain.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Domain\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\Avatar\\Back-End-Verdeva\\NutriControl.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
