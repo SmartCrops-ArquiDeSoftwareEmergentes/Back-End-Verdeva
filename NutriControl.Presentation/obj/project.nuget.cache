@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kPbNGauz3jA=",
+  "dgSpecHash": "R7O54IeW/5o=",
   "success": true,
   "projectFilePath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Presentation\\NutriControl.Presentation.csproj",
   "expectedPackageFiles": [
@@ -229,8 +229,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'BCrypt.Net 0.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Presentation\\NutriControl.Presentation.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Presentation\\NutriControl.Presentation.csproj",
       "libraryId": "BCrypt.Net",
       "targetGraphs": [
         "net9.0"
@@ -239,8 +241,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'HiNetCloud.Microsoft.IdentityModel.JsonWebTokens 23.10.8.15' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Presentation\\NutriControl.Presentation.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\chris\\Documents\\GitHub\\BackEnd\\NutriControl.Presentation\\NutriControl.Presentation.csproj",
       "libraryId": "HiNetCloud.Microsoft.IdentityModel.JsonWebTokens",
       "targetGraphs": [
         "net9.0"

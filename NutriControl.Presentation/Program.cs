@@ -38,8 +38,8 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Version = "v1",
-        Title = "APIs for NutriControl",
-        Description = "ASP.NET Core Web API for NutriControl Platform",
+        Title = "APIs for Verdeva",
+        Description = "ASP.NET Core Web API for Verdeva Platform",
         TermsOfService = new Uri("https://example.com/terms"),
         Contact = new OpenApiContact
         {

@@ -492,12 +492,6 @@ C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets\msbuild.NutriControl.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets\msbuild.NutriControl.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets\msbuild.build.NutriControl.Presentation.props
-C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.NutriControl.Presentation.props
-C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.NutriControl.Presentation.props
-C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\NutriCon.9D698398.Up2Date
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\NutriControl.Presentation.dll
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\refint\NutriControl.Presentation.dll
@@ -505,3 +499,8 @@ C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\NutriControl.Presentation.pdb
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\NutriControl.Presentation.genruntimeconfig.cache
 C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\ref\NutriControl.Presentation.dll
+C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\chris\Documents\GitHub\BackEnd\NutriControl.Presentation\obj\Debug\net9.0\staticwebassets.build.json.cache
